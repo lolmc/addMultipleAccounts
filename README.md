@@ -1,5 +1,7 @@
 # addMultipleAccounts
 Create multiple Linux user accounts with a password and the change password on first login option in place to force the user to change their password.
+
+
 Options for account creation will be set as follows:
 GROUP=100                Set group ID to 100 (users)
 HOME=/home               Set base home directory to /home
