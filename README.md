@@ -10,7 +10,7 @@ HOME=/home               Set base home directory to /home
 
 INACTIVE=-1              Password expiration is disabled (-1)
 
-EXPIRE=0                 Don’t set date to disable user account
+EXPIRE=                  Don’t set date to disable user account
 
 SHELL=/bin/sh            Set the default shell to /bin/bash
 
